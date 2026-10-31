@@ -20,7 +20,8 @@ small scales and repeats similair pattern across different levels of magnificati
 ensure it is relative
     chmod +x WGWF
 
-3. Call the file or run it 
+
+3. Download Requirements file using pip 
 
 ## Final Notes
 Read the notes and also understand the code is nicer to use if you clone the repo for now the setting on the generation are hard coded, if you clone the repo you change change it. 
